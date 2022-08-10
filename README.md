@@ -1,1 +1,2 @@
-# gpt3
+# gpt3-jabebot
+ Chatbot app
